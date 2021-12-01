@@ -123,5 +123,13 @@
  padding-bottom: 20px;
  padding-top: 20px;
  }
- 
 
+  .footer {
+ 
+ background-color: black; 
+ height: auto;
+ color: white;
+ padding-bottom: 20px;
+ padding-top: 20px;
+ 
+ }
