@@ -133,3 +133,16 @@
  padding-top: 20px;
  
  }
+ 
+  .card {
+	  border: none;
+  }
+  
+   .card-img-side {
+	  height: 250px;
+	 
+  }
+  
+  .card-body {
+    padding: 0;
+}
